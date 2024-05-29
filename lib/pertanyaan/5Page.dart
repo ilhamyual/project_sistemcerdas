@@ -8,10 +8,10 @@ double calculateResult(
   bool a4, bool b4, bool c4,
   
 ) {
-  double value1 = a1 ? 0.4 : b1 ? 0.2 : c1 ? 0.0 : 0.0;
-  double value2 = a2 ? 0.4 : b2 ? 0.2 : c2 ? 0.0 : 0.0;
-  double value3 = a3 ? 0.4 : b3 ? 0.2 : c3 ? 0.0 : 0.0;
-  double value4 = a4 ? 0.4 : b4 ? 0.2 : c4 ? 0.0 : 0.0;
+  double value1 = a1 ? 0.7 : b1 ? 0.35 : c1 ? 0.0 : 0.0;
+  double value2 = a2 ? 0.5 : b2 ? 0.25 : c2 ? 0.0 : 0.0;
+  double value3 = a3 ? 0.6 : b3 ? 0.3 : c3 ? 0.0 : 0.0;
+  double value4 = a4 ? 0.7 : b4 ? 0.35 : c4 ? 0.0 : 0.0;
 
   double x1 = value1 + value2 * (1 - value1);
   double x2 = x1 + value3 * (1 - x1);

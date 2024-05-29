@@ -10,12 +10,12 @@ double calculateResult(
   bool a6, bool b6, bool c6,
   
 ) {
-  double value1 = a1 ? 0.8 : b1 ? 0.4 : c1 ? 0.0 : 0.0;
-  double value2 = a2 ? 0.8 : b2 ? 0.4 : c2 ? 0.0 : 0.0;
-  double value3 = a3 ? 0.8 : b3 ? 0.4 : c3 ? 0.0 : 0.0;
-  double value4 = a4 ? 0.8 : b4 ? 0.4 : c4 ? 0.0 : 0.0;
-  double value5 = a5 ? 0.8 : b5 ? 0.4 : c5 ? 0.0 : 0.0;
-  double value6 = a6 ? 0.8 : b6 ? 0.4 : c6 ? 0.0 : 0.0;
+  double value1 = a1 ? 0.5 : b1 ? 0.25 : c1 ? 0.0 : 0.0;
+  double value2 = a2 ? 0.7 : b2 ? 0.35 : c2 ? 0.0 : 0.0;
+  double value3 = a3 ? 0.6 : b3 ? 0.3 : c3 ? 0.0 : 0.0;
+  double value4 = a4 ? 0.5 : b4 ? 0.25 : c4 ? 0.0 : 0.0;
+  double value5 = a5 ? 0.6 : b5 ? 0.3 : c5 ? 0.0 : 0.0;
+  double value6 = a6 ? 0.7 : b6 ? 0.35 : c6 ? 0.0 : 0.0;
 
   double x1 = value1 + value2 * (1 - value1);
   double x2 = x1 + value3 * (1 - x1);
