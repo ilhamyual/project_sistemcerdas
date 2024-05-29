@@ -97,7 +97,7 @@ class _onePageState extends State<onePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '1. Merasa senang saat menggunakan Smartphone.',
+                            '1. Apakah Anda merasa senang saat menggunakan Smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -236,7 +236,7 @@ class _onePageState extends State<onePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '2. Lebih memprioritaskan bermain Smartphone dibandingkan minat terhadap kegiatan lainnya.',
+                            '2. Apakah Anda lebih memprioritaskan bermain Smartphone dibandingkan minat terhadap kegiatan lainnya?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -375,7 +375,7 @@ class _onePageState extends State<onePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '3. Selalu memikirkan Smartphone bahkan ketika tidak menggunakannya.',
+                            '3. Apakah Anda selalu memikirkan Smartphone bahkan ketika tidak menggunakannya?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -514,7 +514,7 @@ class _onePageState extends State<onePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '4. Membawa smartphone ke toilet, bahkan ketika terburu-buru.',
+                            '4. Apakah Anda membawa smartphone ke toilet, bahkan ketika terburu-buru?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -653,7 +653,7 @@ class _onePageState extends State<onePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '5. Menggunakan Smartphone melebihi 3 jam/hari.',
+                            '5. Apakah Anda menggunakan Smartphone melebihi 3 jam/hari?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,

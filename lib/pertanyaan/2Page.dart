@@ -96,7 +96,7 @@ class _twoPageState extends State<twoPage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '1. Menggunakan smartphone adalah aktifitas yang sangat menyenangkan untuk dilakukan.',
+                            '1. Apakah menurut Anda menggunakan smartphone adalah aktifitas yang sangat menyenangkan untuk dilakukan?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -235,7 +235,7 @@ class _twoPageState extends State<twoPage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '2. Merasa lelah dan kurang tidur karena penggunaan smartphone.',
+                            '2. Apakah Anda merasa lelah dan kurang tidur karena penggunaan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -374,7 +374,7 @@ class _twoPageState extends State<twoPage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '3. Mengalami sakit kepala ringan atau kabur karena penggunaan smartphone.',
+                            '3. Apakah Anda mengalami sakit kepala ringan atau penglihatan kabur karena penggunaan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -513,7 +513,7 @@ class _twoPageState extends State<twoPage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '4. Jarang mengobrol dengan anggota keluarga karena menggunakan smartphone.',
+                            '4. Apakah Anda jarang mengobrol dengan anggota keluarga karena menggunakan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -652,7 +652,7 @@ class _twoPageState extends State<twoPage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '5. Mudah merasa kesal ketika terganggu saat menggunakan smartphone.',
+                            '5. Apakah Anda mudah merasa kesal ketika terganggu saat menggunakan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,

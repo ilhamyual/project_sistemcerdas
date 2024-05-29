@@ -97,7 +97,7 @@ class _threePageState extends State<threePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '1. Tidak melakukan pekerjaan yang sudah direncanakan karena menggunakan smartphone.',
+                            '1. Apakah Anda tidak melakukan pekerjaan lain yang sudah direncanakan karena menggunakan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -236,7 +236,7 @@ class _threePageState extends State<threePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '2. Kesulitan berkonsentrasi dalam pekerjaan atau saat menyelesaikan tugas karena penggunaan smartphone.',
+                            '2. Apakah Anda kesulitan berkonsentrasi dalam pekerjaan atau saat menyelesaikan tugas karena penggunaan smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -375,7 +375,7 @@ class _threePageState extends State<threePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '3. Tidak dapat mengendalikan keinginan untuk menggunakan Smartphone.',
+                            '3. Apakah Anda tidak dapat mengendalikan keinginan untuk menggunakan Smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -514,7 +514,7 @@ class _threePageState extends State<threePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '4. Merasa tidak sabar dan gelisah ketika tidak memegang Smartphone.',
+                            '4. Apakah Anda merasa tidak sabar dan gelisah ketika tidak memegang Smartphone?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
@@ -628,8 +628,7 @@ class _threePageState extends State<threePage> {
                           'Tidak Pernah Terjadi',
                           style: TextStyle(
                             color: Colors.blue,
-                            fontSize: 12,
-                            fontWeight: FontWeight.bold,
+                            fontSize: 14,
                           ),
                         ),
                       ],
@@ -653,7 +652,7 @@ class _threePageState extends State<threePage> {
                           padding: EdgeInsets.fromLTRB(20.0, 10.0, 0.0, 10.0),
                           // kiri, atas, kanan, bawah
                           child: Text(
-                            '5. Terus menggunakan Smartphone meski ada konsekuensi negatif yang jelas terlihat.',
+                            '5. Apakah Anda terus menggunakan Smartphone meskipun ada konsekuensi negatif yang jelas terlihat?',
                             style: TextStyle(
                               color: Colors.blue,
                               fontSize: 16,
